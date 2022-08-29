@@ -1,0 +1,40 @@
+{
+  "todo": [
+    {
+      "name": "Take a Loan",
+      "id": 1
+    }
+  ],
+  "inProgress": [
+    {
+      "name": "Build Website",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Design Logo"
+    },
+    {
+      "id": 3,
+      "name": "Sign Office Lease"
+    },
+    {
+      "name": "Hire Accountant",
+      "id": 4
+    }
+  ],
+  "completed": [
+    {
+      "id": 0,
+      "name": "Open Bank Account"
+    },
+    {
+      "id": 1,
+      "name": "Write Business Plans"
+    },
+    {
+      "name": "Create Facebook Page",
+      "id": 2
+    }
+  ]
+}
